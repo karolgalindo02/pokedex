@@ -1,4 +1,4 @@
-# Pokedex
+# Pokedex ⚡
 
 Requerimientos:
 - El reto debe ser igual al que visualizan en el video.
