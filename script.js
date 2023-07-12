@@ -63,7 +63,7 @@ const createPokemonCard = (pokemon) => {
 
     const type = document.createElement("p");
     type.classList.add("info"); 
-    type.textContent = Type: `${pokemon.types[0].type.name}`;
+    type.textContent = `type:${pokemon.types[0].type.name}`;
 
     const cardColor = colors[pokemon.types[0].type.name]; 
     card.style.backgroundColor = cardColor; 
