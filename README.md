@@ -31,9 +31,11 @@ Por ultimo se llaman todas las constantes creadas para que se incorporen a la ta
 ![agregar elementos](https://github.com/karolgalindo02/pokedex/assets/122057880/d58005a4-1fba-4d15-b58f-08b6c57f234f)
 
 Vista Desktop
+
 ![desktop](https://github.com/karolgalindo02/pokedex/assets/122057880/a66bc1a3-3d47-45ad-8c4a-e9cd7c6a18e2)
 
 Vista Mobile
+
 ![mobile](https://github.com/karolgalindo02/pokedex/assets/122057880/7388b825-51d3-4a02-9644-553fba9c9748)
 
 
