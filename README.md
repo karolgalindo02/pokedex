@@ -34,7 +34,7 @@ Vista Desktop
 ![desktop](https://github.com/karolgalindo02/pokedex/assets/122057880/a66bc1a3-3d47-45ad-8c4a-e9cd7c6a18e2)
 
 Vista Mobile
-![imagen](https://github.com/karolgalindo02/pokedex/assets/122057880/66f87bd6-f3c4-42c8-b9a6-a44f0e918236)
+![mobile](https://github.com/karolgalindo02/pokedex/assets/122057880/7388b825-51d3-4a02-9644-553fba9c9748)
 
 
 Dando como resultado
