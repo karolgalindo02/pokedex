@@ -30,13 +30,12 @@ Por ultimo se llaman todas las constantes creadas para que se incorporen a la ta
 
 ![agregar elementos](https://github.com/karolgalindo02/pokedex/assets/122057880/d58005a4-1fba-4d15-b58f-08b6c57f234f)
 
-Dando como resultado
-╰⁠(⁠ ⁠･⁠ ⁠ᗜ⁠ ⁠･⁠ ⁠)⁠➝<a href="https://xpokedex-api.netlify.app/"> Despliegue de la Pokedex ⚡</a>
-
 Vista Desktop
 ![desktop](https://github.com/karolgalindo02/pokedex/assets/122057880/a66bc1a3-3d47-45ad-8c4a-e9cd7c6a18e2)
 
 Vista Mobile
+![imagen](https://github.com/karolgalindo02/pokedex/assets/122057880/66f87bd6-f3c4-42c8-b9a6-a44f0e918236)
 
 
-
+Dando como resultado
+╰⁠(⁠ ⁠･⁠ ⁠ᗜ⁠ ⁠･⁠ ⁠)⁠➝<a href="https://xpokedex-api.netlify.app/"> Despliegue de la Pokedex ⚡</a>
